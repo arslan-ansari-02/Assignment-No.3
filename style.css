@@ -1,0 +1,232 @@
+.logo-img{
+    height: 60px;
+    margin-left: 20px;
+}
+a.navbar-brand{
+    font-size: 29px;
+    padding-left: 10px;
+    font-weight: bold;
+}
+#navbarNav{
+    justify-content: end;
+    font-size: 20px;
+}
+.navbar-nav .nav-link{
+    color: #eb2f06;
+    margin-right: 20px;
+}
+.navbar-nav .nav-item{
+    padding: 8px;
+}
+.search-icon{
+    width: 100%;
+    height: 30px;
+}
+.header-top{
+    margin-top: 90px;
+    margin-left: 25px;
+    margin-right: 25px;
+    margin-bottom: 20px;
+}
+.header{
+    font-weight: bold;
+    font-size: 50px;
+    font-family: sans-serif;
+    color: black;
+}
+.paragraph{
+    margin-top: 37px;
+    font-size: 18px;
+}
+.slide-img{
+    width: 100%;
+    height: 400px;
+}
+.box-button{
+    margin-top: 45px;
+}
+.img{
+    float: left;
+    margin-top: 20px;
+}
+.noor{
+    background-color: #eb2f06;
+    border: none;
+    padding: 15px 20px;
+    color: white;
+}
+.nor{
+    background-color: black;
+    border: none;
+    margin-left: 10px;
+    padding: 15px 20px;
+    color: white;
+}
+.fruite-area{
+    margin-top: 40px;
+}
+.fruite-text{
+    text-align: center;
+}
+.fruite-paragraph{
+    margin-top: 10px;
+}
+.paragraph-section{
+    text-align: center;
+    font-size: 20px;
+}
+.our-service{
+    margin-top: 40px;
+}
+.service-text{
+    text-align: center;
+}
+.service-paragraph{
+    margin-top: 10px;
+}
+.paragraph-section{
+    text-align: center;
+    font-size: 20px;
+}
+.card-section{
+    margin-top: 50px;
+    margin-left: 25px;
+    margin-right: 25px;
+}
+.card-body{
+    border: 1px solid lightgrey;
+    text-align: center;
+}
+.Picture{
+    margin-top: 70px;
+}
+.header-1{
+    margin-top: 50px;
+    margin-left: 25px;
+    margin-right: 25px;
+}
+.header-2{
+    margin-top: 50px;
+    margin-left: 25px;
+    margin-right: 25px;
+}
+.header-3{
+    margin-top: 50px;
+    margin-left: 25px;
+    margin-right: 25px;
+}
+.orange-img{
+    text-align: center;
+    width: 100%;
+}
+.grapes-img{
+    text-align: center;
+    width: 100%;
+}
+.gauva-img{
+    text-align: center;
+    width: 100%;
+}
+.text{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: oblique;
+}
+.p-section{
+    font-size: 18px;
+    margin-top: 25px;
+    font-style: italic;
+}
+.box-btn{
+    background-color: black;
+    color: white;
+    padding: 10px 15px;
+    border: none;
+}
+.touch-button{
+    margin-top: 50px;
+}
+.testimonial-area{
+    margin-top: 50px;
+}
+.testimonial-text{
+    text-align: center;
+}
+.testimonial-paragraph{
+    margin-top: 10px;
+}
+.paragraph-section{
+    text-align: center;
+    font-size: 20px;
+}
+.client-img{
+    margin-top: 30px;
+    justify-content: center;
+    text-align: center;
+    justify-items: center;
+}
+.johnhex-area{
+    max-resolution: 50px;
+}
+.johnhex-text{
+    text-align: center;
+}
+.johnhex-paragraph{
+    margin-top: 10px;
+}
+.paragraph-section{
+    text-align: center;
+    margin-left: 25px;
+    margin-right: 25px;
+    font-size: 20px;
+}
+.form-section{
+    margin-top: 50px;
+    margin-left: 25px;
+    margin-right: 25px;
+}
+.input{
+    border-width: 0px 0px 3px;
+    border-color: #eb2f06;
+    height: 40px;
+    width: 70%;
+    margin-top: 20px;
+    outline: 0px;
+}
+.form-button{
+    background-color: #eb2f06;
+    color: white;
+    border: none;
+    margin-top: 30px;
+    padding: 5px 30px;
+}
+.dish-img{
+    text-align: center;
+    float: right;
+}
+.dish{
+    height: 450px
+}
+.list-section{
+    margin-top: 50px;
+    margin-left: 25px;
+    margin-right: 25px;
+}
+.follow-img{
+    margin-top: 20px;
+}
+.subscribe{
+    background-color: #eb2f06;
+    border: none;
+    color: white;
+    padding: 5px 20px;
+}
+.footer{
+    margin-top: 20px;
+    background-color: gainsboro;
+    overflow: hidden;
+    text-align: center;
+    padding: 37px;
+    font-family: sans-serif;
+}
+
+
